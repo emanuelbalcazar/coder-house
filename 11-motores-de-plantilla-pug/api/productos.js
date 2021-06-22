@@ -11,7 +11,6 @@ class Products {
             ...product
         }
         this.items.push(newItem)
-        console.log(this.items);
         return newItem
     }
 
